@@ -1,5 +1,4 @@
-#!/bin/bash
-# Simple system info script
+
 
 echo "===== System Information ====="
 echo "Hostname: $(hostname)"
